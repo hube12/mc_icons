@@ -3,7 +3,7 @@
 Those are Minecraft icons for structures, features and items.
 
 
-![Icons showcase](mcicons.png)
+![Icons showcase](mcicons.PNG)
 
 Released under CC-0
 
