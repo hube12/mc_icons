@@ -2,12 +2,16 @@
 
 Those are Minecraft icons for structures, features and items.
 
+Flat design icons created by Uniquepotatoes.
 
-![Icons showcase](mcicons.PNG)
+![Icons showcase](mc_icons_flat.png)
 
-Alternate icons created by Uniquepotatoes.
+Rich design icons by Neil
 
-![Icons showcase](mcicons_flat.png)
+![Icons showcase](mc_icons.png)
+
+
+All the icons are in '/icons' you will find in each set 2 folders, one for features and one for structures.
 
 Released under CC-0
 
