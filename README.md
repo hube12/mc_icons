@@ -5,7 +5,7 @@ Those are Minecraft icons for structures, features and items.
 
 ![Icons showcase](mcicons.PNG)
 
-Alternate icons created by Uniquepotatoes#4303
+Alternate icons created by Uniquepotatoes
 
 ![Icons showcase](mcicons_flat.png)
 
